@@ -7,7 +7,7 @@
 ### Channel.
 + Blog. [https://velog.io/@storyno7](https://velog.io/@storyno7)
 
-   # ✨ Teck Stack
+ # ✨ Teck Stack
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
